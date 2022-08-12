@@ -83,4 +83,8 @@ look_down={
 
 [rendering]
 
+quality/driver/driver_name="GLES2"
+vram_compression/import_etc=true
+quality/depth/hdr=false
+quality/depth/hdr.mobile=true
 environment/default_environment="res://default_env.tres"
