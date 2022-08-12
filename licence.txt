@@ -1,0 +1,21 @@
+1st Person Base Project for Godot 3.2
+
+This is a minimal project for Godot Game Engine version 3.2 (other versions might work too, but weren't tested). It can be used as a base project to create a 1st person type of game. Just unzip the project and open it via Godot.
+For a detailed explanation of how the scripts work, see this Youtube playlist: https://www.youtube.com/watch?v=BiIM3x1j66o&list=PLWuZWGwSIQHZ87l57skNtVAojCG0lSjBI
+
+The creator of this project and its contents is Martin Senges.
+Email: business@martin-senges.eu
+Twitter: @MartinSenges
+
+
+
+Features:
+    - 1st person camera view and controls (keyboard, mouse, gamepad/joystick controller)
+    - Interaction with objects, based on entering an area
+    - Interaction with objects based on look-at-mechanic
+    - step sound
+
+Licence:
+    - You are free to use this project for your own game, free or commercial.
+    - You are not allowed to upload an umodified (or slightly modified) version of the "1st Person Base Project for Godot 3.2" as your own work on any platform.
+    - A mention in the credits of your game would be appreciated, but is not necessary as long as you don't claim to be the creator of an umodified  (or slightly modified) version of the "1st Person Base Project for Godot 3.2".
